@@ -4,7 +4,7 @@ from game.actor import Actor
 from game.point import Point
 
 # TODO: Define the Food class here
-#  Food class sets up where the food will appear
+#  Food class sets up where the food will appearrr
 class Food(Actor):
 
     def __init__(self):
