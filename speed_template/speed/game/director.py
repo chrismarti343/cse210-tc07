@@ -43,7 +43,7 @@ class Director:
         that means getting the desired direction and moving the snake.
 
         Args:
-            self (Director): An instance of Director.
+            self (Director): An instance of Director..
         """
         direction = self._input_service.get_direction()
         #self._snake.move_head(direction)
